@@ -43,9 +43,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
 
-<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" raw=true" width = 50px /></picture>
-<p text="bold">DataBase</p>
+### <picture> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /></picture> DataBase
 
+###
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
