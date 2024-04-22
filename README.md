@@ -1,7 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Mahmoud Khalefa </h1>
 
 ###
-<p align="left">I'm Mahmoud from Cairo, Egypt<br><br>🎓 I graduated from Information Technology Institute (ITI), Professional Web Development and BI Track<br><br>🌱  I'm on track for learning Angular <br> :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://2u.pw/6cVh4Ple)</p>
+<p align="left">I'm Mahmoud from Cairo, Egypt<br><br>🎓 I graduated from Information Technology Institute (ITI), Professional Web Development and BI Track<br><br>🌱  I'm on track for learning Angular <br> </p>
+:thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://2u.pw/6cVh4Ple)
 
 
 
