@@ -10,8 +10,8 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <p align="left"> I'm from Cairo, Egypt<br><br>🎓 I graduated from Information Technology Institute (ITI), Professional Web Development and BI Track<br><br>🌱  I'm on track for learning Angular <br> 
-  🤔 I’m currently open for a new <code>job opportunity</code>, this is <a href="http://lnkiy.in/Ahmed_Hossam_Resume">MY RESUME</a>.
-.
+  🤔 I’m currently open for a new <code>job opportunity</code>, this is <a href="https://2u.pw/6cVh4Ple">MY RESUME</a>.
+
 </p>
 
 
