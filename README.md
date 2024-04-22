@@ -42,9 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
-<div>
-            <i class="devicon-azuresqldatabase-plain"></i>
-          </div>
+###<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /></picture>
             
           
 ###
