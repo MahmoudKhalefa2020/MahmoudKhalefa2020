@@ -44,7 +44,8 @@
 </div>
 
 ###
-### <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" raw=true" width = 50px /></picture> Data Base
+<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" raw=true" width = 50px /></picture>
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
