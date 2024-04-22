@@ -10,11 +10,16 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+.NET+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
+<br>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with .NET </h2>
 
 ###
 
