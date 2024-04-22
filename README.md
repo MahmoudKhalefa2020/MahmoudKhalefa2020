@@ -42,12 +42,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> BackEnd Development
-            
-          
-
 
 ###
+### <picture> <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" raw=true" width = 50px /></picture>  </picture> Data Base
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
