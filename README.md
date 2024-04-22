@@ -1,8 +1,9 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
+<p align="left">I'm Mahmoud from Cairo, Egypt<br><br>-🎓 I graduated from Information Technology Institute (ITI), Professional Web Development and BI Track<br><br>- 🌱  I'm on track for learning Angular</p>
 
-<p align="left">My name is Mahmoud Kahlefa and I'm .NET Developer, </p>
+
 
 ###
 
