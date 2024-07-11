@@ -10,7 +10,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <p align="left"> 🌍 I'm from Cairo, Egypt<br><br>🎓 I graduated from Information Technology Institute (ITI), Professional Web Development and BI Track<br><br>🌱  I'm on track for learning Angular <br><br>  
-  🤔 I’m currently open for a new <code>job opportunity</code>
+  🤔 I’m currently open for a new <code>job opportunity</code>,this is <a href="https://drive.google.com/file/d/1DuDJFsnVIfJmWIN2w219QHzyLYbh3aw_/view?usp=sharing">MY RESUME</a>.
 
 </p>
 
