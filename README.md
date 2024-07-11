@@ -10,12 +10,13 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <p align="left"> 🌍 I'm from Cairo, Egypt<br><br>🎓 I graduated from Information Technology Institute (ITI), Professional Web Development and BI Track<br><br>🌱  I'm on track for learning Angular <br><br>  
-  🤔 I’m currently open for a new <code>job opportunity</code>, this is <a href="[https://2u.pw/6cVh4Ple](https://drive.google.com/file/d/1DuDJFsnVIfJmWIN2w219QHzyLYbh3aw_/view?usp=sharing)">MY RESUME</a>.
+  🤔 I’m currently open for a new <code>job opportunity</code>
 
 </p>
 
 
 <!--
+ this is <a href="[https://2u.pw/6cVh4Ple](https://drive.google.com/file/d/1DuDJFsnVIfJmWIN2w219QHzyLYbh3aw_/view?usp=sharing)">MY RESUME</a>.
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;My+Name+is+Mahmoud+Khalefa;.NET+Developer,;ITIan+,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
